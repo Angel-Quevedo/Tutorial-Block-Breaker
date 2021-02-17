@@ -48,6 +48,6 @@ public class GameStatus : MonoBehaviour
 
     public bool IsAutoPlayEnabled()
     {
-        return isActiveAndEnabled;  
+        return isAutoPlayEnabled;  
     }
 }
